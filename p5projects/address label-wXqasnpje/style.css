@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#labelcol{
+  display: flex;
+  flex-wrap: wrap;
+    
+}
+
+.label{
+  padding:1rem;
+  border: 1px solid black
+}

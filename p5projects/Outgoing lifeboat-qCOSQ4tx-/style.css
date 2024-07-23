@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.btns {
+  width:12rem;
+  font-size: 2rem;
+  background-color: lightblue;
+  padding: 2 rem;
+}
